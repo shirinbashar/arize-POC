@@ -1,0 +1,9 @@
+Flask~=3.1.2
+openai~=1.109.1
+pydantic~=2.12.5
+guardrails-ai~=0.7.0 #guardrails
+arize~=7.51.1
+bandit~=1.9.2
+boto3~=1.42.3
+requests~=2.32.5
+numpy~=2.3.5
