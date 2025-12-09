@@ -1,0 +1,48 @@
+{
+  "scan_timestamp": "2025-12-09T23:10:43.222435",
+  "checks_performed": [
+    "Bandit SAST Scan",
+    "API Configuration Validation",
+    "Security Controls Verification"
+  ],
+  "findings": [
+    {
+      "check": "Bandit SAST",
+      "status": "COMPLETED",
+      "high_severity": 1,
+      "medium_severity": 2,
+      "low_severity": 0,
+      "total_issues": 3,
+      "report_path": "C:\\Users\\shiri\\Documents\\arize-POC\\security-reports\\bandit_report.json"
+    },
+    {
+      "check": "API Configuration",
+      "status": "COMPLETED",
+      "issues_found": 1,
+      "issues": [
+        "Flask debug mode enabled - unsafe for production"
+      ]
+    },
+    {
+      "check": "Security Controls",
+      "status": "COMPLETED",
+      "controls_enabled": 5,
+      "total_controls": 5,
+      "details": {
+        "Guardrails AI": true,
+        "Phoenix Observability": true,
+        "Input Validation": true,
+        "PII Detection": true,
+        "Toxic Content Filter": true
+      }
+    }
+  ],
+  "summary": {
+    "security_posture": "NEEDS ATTENTION",
+    "security_score": 60,
+    "total_checks": 3,
+    "high_severity_issues": 1,
+    "medium_severity_issues": 2,
+    "recommendation": "High severity issues detected. Address critical findings immediately before deployment."
+  }
+}
