@@ -45,7 +45,7 @@ Python security automation script:
 ## 🎯 Project Scope
 
 This project demonstrates the following competencies required for Information System Security Engineer (ISSE) roles:
-
+![img.png](img.png)
 ### NIST Risk Management Framework (RMF)
 ✅ System security categorization (FIPS 199)  
 ✅ Security control implementation (10 controls from NIST 800-53)  
@@ -189,7 +189,7 @@ This project directly demonstrates skills from the Booz Allen Hamilton ISSE job 
 
 ## 🔗 Repository
 
-**GitHub:** [To be uploaded]
+**GitHub:** []
 
 This package can be uploaded to GitHub to demonstrate capabilities to potential employers.
 
@@ -198,9 +198,9 @@ This package can be uploaded to GitHub to demonstrate capabilities to potential 
 ## 📧 Contact
 
 **Shirin Bashar**  
-[Your Email]  
-[Your LinkedIn]  
-[Your GitHub]
+[shirin.bashar@outlook.com]  
+[https://www.linkedin.com/in/shirin-bashar/ ]
+[https://github.com/shirinbashar]
 
 ---
 
@@ -211,5 +211,5 @@ This project is created as a portfolio demonstration and follows standard open-s
 ---
 
 **Prepared for:** Information System Security Engineer (ISSE) Role Applications  
-**Focus:** Booz Allen Hamilton and similar federal contractors  
+**Focus:** Agentic AI security and other similar federal contractors  
 **Framework Compliance:** NIST RMF, FIPS 199, NIST SP 800-53 Rev 5
